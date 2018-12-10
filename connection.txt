@@ -1,0 +1,1 @@
+pscp -scp -P 28914 -r -l charles -pw 19dcguoslek *.* charles@69.75.163.22:/var/www/html/
